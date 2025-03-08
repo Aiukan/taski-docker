@@ -1,0 +1,5 @@
+name: Main Taski Workflow
+on:
+  push:
+    branches:
+      - main
